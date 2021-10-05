@@ -1,0 +1,14 @@
+com\sportyshoes\dao\UserDao.class
+com\sportyshoes\dao\CategoryDao.class
+com\sportyshoes\dao\GenericDao.class
+com\sportyshoes\model\Purchase.class
+com\sportyshoes\model\User.class
+com\sportyshoes\Application.class
+com\sportyshoes\services\UserService.class
+com\sportyshoes\model\Product.class
+com\sportyshoes\dao\ProductDao.class
+com\sportyshoes\utils\Factory.class
+com\sportyshoes\dao\PurchaseDao.class
+com\sportyshoes\utils\Constants.class
+com\sportyshoes\utils\HibernateUtils.class
+com\sportyshoes\model\Category.class
